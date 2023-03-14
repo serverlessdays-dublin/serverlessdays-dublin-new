@@ -10,7 +10,7 @@ ServerlessDays are a family of events around the world focused on fostering a co
 ServerlessDays began as JeffConf, a tongue in cheek conference in the spirit of Paul Johnston's blog post, 
 “Serverless is just a name. We could have called it Jeff”, an attempt to move beyond the serverless buzzword and focus on the 
 practical use of function as a service platforms and the value they provide. It is a one day, community focused, 
-single track event centered on real world serverless-based solutions. It's about fostering a community and helping all of us learn 
+single track event centred on real world serverless-based solutions. It's about fostering a community and helping all of us learn 
 from each other as we embrace a new way of building applications.
 
 The Dublin chapter of ServerlessDays is unique, organised by locals and not run for profit. They are run according to the following principles
